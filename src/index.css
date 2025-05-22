@@ -336,9 +336,12 @@ progress {
     text-align: center;
   }
 
-  .start {
+  .start,
+  .start h2,
+  .start p {
     text-align: center;
   }
+
 }
 
 
